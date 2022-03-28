@@ -1,3 +1,6 @@
+## Notes from collaboration on setting up GitHub:
+## Testing going into the cars.R file and then
+## push it back to the collaborated repo.
 library(tidyverse)
 library(jsonlite)
 library(lubridate)
